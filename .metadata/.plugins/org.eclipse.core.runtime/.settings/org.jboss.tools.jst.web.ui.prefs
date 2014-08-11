@@ -1,6 +1,0 @@
-Default\ VPE\ Tab=1
-Show\ Selection\ Tag\ Bar=false
-Size\ of\ Visual\ Editor\ Pane\ 0-100%=300
-eclipse.preferences.version=1
-newFileTemplateName=Blank JSF Page
-org.jboss.tools.jsf.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="xhtml_new" deleted\="false" description\="Simple JSF page without facelets " enabled\="true" id\="org.jboss.tools.jsf.ui.xhtml.component" name\="Blank JSF Page">&lt;\!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http\://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt; \r\n&lt;html xmlns\="http\://www.w3.org/1999/xhtml" \r\n      xmlns\:h\="http\://java.sun.com/jsf/html" \r\n      xmlns\:f\="http\://java.sun.com/jsf/core" \r\n      xmlns\:ui\="http\://java.sun.com/jsf/facelets"&gt; \r\n\r\n&lt;h\:head&gt;&lt;title&gt;&lt;/title&gt;&lt;/h\:head&gt; \r\n&lt;h\:body&gt; \r\n${cursor}\r\n&lt;/h\:body&gt; \r\n&lt;/html&gt;\r\n</template></templates>
