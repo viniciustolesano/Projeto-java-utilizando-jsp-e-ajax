@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+D:\Materiais de estudo\Java\Projetos para estudo\Projeto-java-utilizando-jsp-e-ajax\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3048660571.index
+3824874692.index
+185652663.index
+2180469854.index
+2736578151.index
+1129331585.index
+3682854465.index

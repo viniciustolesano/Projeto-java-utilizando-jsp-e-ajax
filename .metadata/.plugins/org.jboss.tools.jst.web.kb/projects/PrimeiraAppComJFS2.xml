@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/PrimeiraAppComJFS2/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="PrimeiraAppComJFS2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Bibliotecas/JSF/javax.faces-2.2.3.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.3.jar/meta-inf/html_basic.tld" project="PrimeiraAppComJFS2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.3.jar/meta-inf/jsf_core.tld" project="PrimeiraAppComJFS2"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.3.jar/meta-inf/mojarra_ext.taglib.xml" project="PrimeiraAppComJFS2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces-2.2.3.jar/meta-inf/mojarra_ext.tld" project="PrimeiraAppComJFS2"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification">
+   <linked-resource declaration="true" name="%1;%2;%3;%4;%5;%6;" path="%0"/>
+  </core>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="37" name="%7" offset="936" path="%8"/>
+   <linked-el length="39" name="%7" offset="469" path="%8"/>
+   <linked-el length="39" name="%7" offset="632" path="%8"/>
+   <linked-el length="30" name="%7" offset="726" path="%9"/>
+   <linked-el length="35" name="%7" offset="573" path="%9"/>
+   <linked-el length="36" name="%7" offset="496" path="%9"/>
+   <linked-el length="36" name="%7" offset="686" path="%8"/>
+   <linked-el length="36" name="%7" offset="523" path="%8"/>
+   <linked-el length="37" name="%10" offset="936" path="%8"/>
+   <linked-el length="39" name="%10" offset="469" path="%8"/>
+   <linked-el length="39" name="%10" offset="632" path="%8"/>
+   <linked-el length="30" name="%10" offset="726" path="%9"/>
+   <linked-el length="35" name="%10" offset="573" path="%9"/>
+   <linked-el length="36" name="%10" offset="496" path="%9"/>
+   <linked-el length="36" name="%10" offset="686" path="%8"/>
+   <linked-el length="36" name="%10" offset="523" path="%8"/>
+   <linked-el length="39" name="%11" offset="1157" path="%12"/>
+   <linked-el length="31" name="%11" offset="618" path="%12"/>
+   <linked-el length="44" name="%11" offset="737" path="%12"/>
+   <linked-el length="31" name="%11" offset="418" path="%0"/>
+   <linked-el length="31" name="%11" offset="452" path="%12"/>
+   <linked-el length="35" name="%11" offset="1011" path="%12"/>
+   <linked-el length="36" name="%11" offset="736" path="%0"/>
+   <linked-el length="34" name="%11" offset="861" path="%12"/>
+   <linked-el length="39" name="%13" offset="1157" path="%12"/>
+   <linked-el length="31" name="%13" offset="618" path="%12"/>
+   <linked-el length="44" name="%13" offset="737" path="%12"/>
+   <linked-el length="31" name="%13" offset="418" path="%0"/>
+   <linked-el length="31" name="%13" offset="452" path="%12"/>
+   <linked-el length="35" name="%13" offset="1011" path="%12"/>
+   <linked-el length="36" name="%13" offset="736" path="%0"/>
+   <linked-el length="34" name="%13" offset="861" path="%12"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="\PrimeiraAppComJFS2\WebContent\loginPage.xhtml" value="%2"/>
+  <alias path="/PrimeiraAppComJFS2/WebContent/componentesParte3.xhtml" value="%8"/>
+  <alias path="/PrimeiraAppComJFS2/WebContent/componentesParte2.xhtml" value="%9"/>
+  <alias path="/errorPage.xhtml" value="%3"/>
+  <alias path="\PrimeiraAppComJFS2\WebContent\errorPage.xhtml" value="%1"/>
+  <alias path="/PrimeiraAppComJFS2/WebContent/index.xhtml" value="%12"/>
+  <alias
+   path="/PrimeiraAppComJFS2/src/controle/ControleComponentes.java" value="%7"/>
+  <alias path="/erroGrave.xhtml" value="%4"/>
+  <alias path="/loginPage.xhtml" value="%5"/>
+  <alias path="/PrimeiraAppComJFS2/WebContent/WEB-INF/faces-config.xml" value="%0"/>
+  <alias path="controleComponente" value="%10"/>
+  <alias path="controlePrincipal" value="%11"/>
+  <alias path="/PrimeiraAppComJFS2/src/controle/ControlePrincipal.java" value="%13"/>
+  <alias path="\PrimeiraAppComJFS2\WebContent\erroGrave.xhtml" value="%6"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+ </uris>
+</kb-project>
