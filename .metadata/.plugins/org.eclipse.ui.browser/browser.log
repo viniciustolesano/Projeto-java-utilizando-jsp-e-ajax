@@ -1,0 +1,15 @@
+
+ago 10, 2014 16:57:59.05 NEW SESSION
+ago 10, 2014 16:57:59.05 1407700679048	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\V-bates\Firefox
+ago 10, 2014 18:53:48.54 1407707628547	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\V-bates\Firefox
+ago 10, 2014 19:02:09.83 1407708129832	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+ago 10, 2014 19:02:09.83 1407708129837	addons.repository	WARN	Search failed when repopulating cache
+ago 10, 2014 19:02:52.13 1407708172132	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+ago 10, 2014 19:03:09.85 1407708189851	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={972ce4c6-7e08-4474-a285-3208198ce6fd}&version=30.0&maxAppVersion=30.0&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=30.0&appOS=WINNT&appABI=x86-msvc&locale=pt-BR&currentAppVersion=30.0&updateType=112&compatMode=normal timed out
+ago 10, 2014 19:03:09.85 1407708189857	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=fiddlerhook@fiddler2.com&version=2.4.6.0&maxAppVersion=30.*&status=userDisabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=30.0&appOS=WINNT&appABI=x86-msvc&locale=pt-BR&currentAppVersion=30.0&updateType=112&compatMode=normal timed out
+ago 10, 2014 19:03:09.86 1407708189864	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=wrc@avast.com&version=9.0.2018.95&maxAppVersion=25.0&status=userDisabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=30.0&appOS=WINNT&appABI=x86-msvc&locale=pt-BR&currentAppVersion=30.0&updateType=112&compatMode=normal timed out
+ago 10, 2014 19:03:09.87 1407708189874	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={87F8774F-B485-47E2-A755-A40A8A5E8873}&version=3.8.0.1&maxAppVersion=99.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=30.0&appOS=WINNT&appABI=x86-msvc&locale=pt-BR&currentAppVersion=30.0&updateType=112&compatMode=normal timed out
+ago 10, 2014 19:03:09.87 1407708189877	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}&version=7.3.16540.9015&maxAppVersion=25.0a1&status=userDisabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=30.0&appOS=WINNT&appABI=x86-msvc&locale=pt-BR&currentAppVersion=30.0&updateType=112&compatMode=normal timed out
+ago 10, 2014 20:26:39.09 1407713199092	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\V-bates\Firefox
+ago 10, 2014 22:01:26.41 1407718886413	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\V-bates\Firefox
+ago 10, 2014 22:01:52.70 1407718912701	addons.xpi	WARN	Ignoring missing add-on in C:\Program Files\V-bates\Firefox
